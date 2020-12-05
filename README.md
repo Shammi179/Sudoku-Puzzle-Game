@@ -17,10 +17,10 @@ N.B. : If you choose Black color for your grid, you may change the highlight col
 
 
 ![lose-solve](contents/lose-solve.png)
-<p align="center">Levels and Appearance</p>
+<p align="center">Losing and See the Solution</p>
 
 ![wrong-winner](contents/wrong-winner.png)
-<p align="center">Levels and Appearance</p>
+<p align="center">Wrong Become Red and Winner</p>
 
 
 ## Team
