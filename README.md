@@ -1,6 +1,8 @@
 <h1 align="center"><b>Sudoku Puzzle Game</b><br>By Dynamic DEVs</h1>
 
-## Features
+This is a Desktop Sudoku Puzzle Game and also it has some exciting features and Rules.
+
+## Exciting Features and Rules
 1. There are 4 levels in this game & you can choose levels from the menu bar --> New Game--> Options
 2. In the Appearance button on the menu bar, you can change the Font Size, Grid Color, Highlight Color, Background Color
 3. You can see the solution if you fail to solve 3 times</br>
